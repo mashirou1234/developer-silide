@@ -1,16 +1,7 @@
-# test markdown
-
-first check slide to GitPitch?
+## Laravel  """さいはや""" で理解するためのいくつかのお約束
 
 ---
 
-## second pages
+### What is this?
 
-みえる？
-
----
-
-### third pages
-
-down
-
+この資料はGitPitchを使ってみたいがために作った資料です。
